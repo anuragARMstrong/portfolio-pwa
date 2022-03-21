@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="col-xs-12">
             <p>
               <img
-                src={process.env.PUBLIC_URL + "images/mashup-icon.png"}
+                src={process.env.PUBLIC_URL + "/images/mashup-icon.png"}
                 alt=""
               />
               <a

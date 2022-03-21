@@ -7913,6 +7913,6 @@
     }.call(e, n("juYr")));
   },
   xxxe: function (t, e, n) {
-    t.exports = n.p + "assets/images/mashup-icon.svg";
+    t.exports = n.p + "/images/mashup-icon.svg";
   },
 });
