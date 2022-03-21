@@ -2,6 +2,7 @@
   "name": "portfolio-pwa",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://anuragarmstrong.github.io/portfolio-pwa",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^11.2.7",
